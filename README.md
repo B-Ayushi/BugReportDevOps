@@ -1,13 +1,13 @@
-# 🐞 Bug Tracking System
+#  Bug Tracking System
 
 A full-stack Java web application to manage and track software bugs with role-based access for **Admin** and **Users**.
 The system allows reporting, assigning, tracking, and resolving bugs in a structured workflow similar to tools like Jira.
 
 ---
 
-## 🚀 Features
+## Features
 
-### 👤 User
+###  User
 
 * Sign Up / Login
 * Report new bugs
